@@ -12,7 +12,7 @@ license = "GPL-3.0"
 keywords = ["archlinux", "arch", "pacsave", "pacnew", "pacman"]
 
 [dependencies]
-alpm = "2.1.1"
+alpm = "3.0.5"
 pacmanconf = "1.0.0"
 chrono = "0.4.19"
 natord = "1.0.9"
